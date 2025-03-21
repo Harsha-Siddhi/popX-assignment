@@ -10,13 +10,6 @@ A clean, mobile-first authentication interface built with **React**, **TailwindC
 - 💾 LocalStorage used for persistent login state
 - 💡 Simple, intuitive UI with zero form validation (as per assignment scope)
 
-## 📸 Screenshots
-
-| Welcome Screen | Register | Login | Account |
-|----------------|----------|-------|---------|
-| _Add screenshot_ | _Add screenshot_ | _Add screenshot_ | _Add screenshot_ |
-
-*(You can paste image links or use GitHub Issues to host screenshots)*
 
 ## 🛠️ Built With
 
